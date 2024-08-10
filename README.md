@@ -1,6 +1,6 @@
 # RevoCycle
 
-RevoCycle is an AI-powered recycling assistant app designed to revolutionize recycling practices in New Zealand by making them more accessible, engaging, and rewarding for users. By leveraging cutting-edge AI technologies and partnerships with private sector companies, we aim to significantly increase recycling rates and reduce waste.
+RevoCycle is an GenAI-powered recycling assistant app designed to revolutionize recycling practices in New Zealand by making them more accessible, engaging, and rewarding for users. By leveraging cutting-edge AI technologies and partnerships with private sector companies, we aim to significantly increase recycling rates and reduce waste.
 
 ![alt text](https://raw.githubusercontent.com/lilwindax/revocycle/main/Screenshot%202024-08-10%20130025.png)
 
