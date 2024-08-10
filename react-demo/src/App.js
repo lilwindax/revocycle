@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 
-const API_KEY = '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';
+const API_KEY = 'Insert your own API Key';
 
 function App() {
   const [messages, setMessages] = useState([]);
@@ -139,7 +139,7 @@ function App() {
           'Authorization': `Bearer ${API_KEY}`,
         },
         body: JSON.stringify({
-          model: "ft:gpt-3.5-turbo-1106:revo-tech:aihackv3:9tubPQhC",
+          model: "gpt-3.5-turbo-1106",
           messages: [{ role: "user", content: prompt }],
           temperature: 1,
           max_tokens: 256,
